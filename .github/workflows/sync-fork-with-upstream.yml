@@ -1,8 +1,9 @@
 name: 'Sync Fork with Upstream'
 
 on:
-  schedule:
-    - cron:  '0 8,13,18 * * 1-5'
+  # Enable this if you want this workflow to run on a schedule
+  #schedule:
+  #  - cron:  '0 8,13,18 * * 1-5'
     # scheduled at 08:00 every Monday to Friday
 
   workflow_dispatch:  # click the button on Github repo!
