@@ -1,6 +1,6 @@
 # GitHub-Action-Workflows
 
-This repository contains the GitHub Action workflows that I use for some of my projects. The workflows include:
+This repository contains the GitHub Action workflows to automate some manual processes. The workflows include:
 - `sync-fork-with-upstream`: A workflow to automatically sync a forked repository with its upstream
 - `generate-changelog`: A workflow to automatically generate a changelog from commit messages and upload it as an artifact
 
